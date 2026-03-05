@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" fill="none">
+  <rect width="800" height="280" rx="16" fill="#fdfaf6"/>
+  <rect x="2" y="2" width="796" height="276" rx="14" stroke="#c0392b" stroke-width="3" stroke-dasharray="12 6" opacity="0.4"/>
+
+  <!-- Title: SCORE! -->
+  <text x="400" y="90" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="#c0392b" letter-spacing="6">SCORE!</text>
+
+  <!-- Subtitle -->
+  <text x="400" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#8b6914" opacity="0.7">Swedish Dance Score Tracker</text>
+
+  <!-- Dancer Arabesque (left) -->
+  <g transform="translate(120, 100) scale(1.2)" stroke="#c0392b" stroke-width="2.5" stroke-linecap="round">
+    <circle cx="40" cy="12" r="6" fill="none"/>
+    <path d="M40 18 L40 45"/>
+    <path d="M40 26 Q27 21 16 17"/>
+    <path d="M40 26 Q53 21 64 14"/>
+    <path d="M40 45 Q42 58 44 72"/>
+    <path d="M40 45 Q53 43 66 38"/>
+    <path d="M12 14 Q9 18 7 12" stroke-width="1.5" opacity="0.3"/>
+    <path d="M68 34 Q72 37 74 31" stroke-width="1.5" opacity="0.3"/>
+  </g>
+
+  <!-- Dancer Pirouette (right) -->
+  <g transform="translate(580, 95) scale(1.2)" stroke="#c0392b" stroke-width="2.5" stroke-linecap="round">
+    <circle cx="30" cy="10" r="6" fill="none"/>
+    <path d="M30 16 L30 48"/>
+    <path d="M30 24 Q20 14 24 5"/>
+    <path d="M30 24 Q40 14 36 5"/>
+    <path d="M30 48 L30 74"/>
+    <path d="M30 48 Q38 53 37 62"/>
+    <path d="M18 26 Q14 28 12 23" stroke-width="1.5" opacity="0.3"/>
+    <path d="M42 26 Q46 28 48 23" stroke-width="1.5" opacity="0.3"/>
+  </g>
+
+  <!-- Flowing ribbon (bottom decoration) -->
+  <path d="M150 220 Q250 195 350 215 Q450 235 550 210 Q620 195 680 220" stroke="#c0392b" stroke-width="2" stroke-linecap="round" opacity="0.2"/>
+  <path d="M160 230 Q260 205 360 225 Q460 245 560 218 Q630 203 680 230" stroke="#c0392b" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+
+  <!-- Music notes (left) -->
+  <g transform="translate(200, 185)" fill="#c0392b" stroke="#c0392b" opacity="0.2">
+    <ellipse cx="0" cy="12" rx="4.5" ry="3" transform="rotate(-18)"/>
+    <path d="M4 10 L4 -6" stroke-width="1.8" fill="none"/>
+    <path d="M4 -6 Q9 -8 8 -2" stroke-width="1.8" fill="none"/>
+  </g>
+
+  <!-- Music notes (right) -->
+  <g transform="translate(570, 190)" fill="#c0392b" stroke="#c0392b" opacity="0.18">
+    <ellipse cx="0" cy="12" rx="4" ry="2.8" transform="rotate(-15)"/>
+    <path d="M3.5 10 L3.5 -5" stroke-width="1.8" fill="none"/>
+    <path d="M3.5 -5 Q8 -7 7 -1" stroke-width="1.8" fill="none"/>
+  </g>
+
+  <!-- Sparkles -->
+  <g stroke="#c0392b" stroke-linecap="round" opacity="0.15">
+    <path d="M300 170 L300 182" stroke-width="1.5"/>
+    <path d="M294 176 L306 176" stroke-width="1.5"/>
+    <circle cx="300" cy="176" r="1.2" fill="#c0392b"/>
+  </g>
+  <g stroke="#c0392b" stroke-linecap="round" opacity="0.12">
+    <path d="M510 165 L510 177" stroke-width="1.5"/>
+    <path d="M504 171 L516 171" stroke-width="1.5"/>
+    <circle cx="510" cy="171" r="1.2" fill="#c0392b"/>
+  </g>
+
+  <!-- Credit line -->
+  <text x="400" y="258" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#8b6914" opacity="0.5">Koreograf: Filippa Fahlin</text>
+</svg>

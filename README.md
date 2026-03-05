@@ -1,6 +1,10 @@
-# SCORE!
+<p align="center">
+  <img src="docs/banner.svg" alt="SCORE! — Swedish Dance Score Tracker" width="700" />
+</p>
 
 A playful Swedish dance score tracker built with React. Designed for children and early teenagers to record dance moves and emotions across different skill levels and tempos.
+
+> Koreograf: **Filippa Fahlin**
 
 ## Features
 
